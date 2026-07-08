@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "shadows66.aternos.me",
-    "port": 27870,
+    "ip": "UpdatedShadow.aternos.me",
+    "port":  32447,
     "version": "1.20.1",
     "try-creative": false
   },
